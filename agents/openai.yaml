@@ -1,0 +1,4 @@
+interface:
+  display_name: "Home Assistant"
+  short_description: "Full-admin diagnose, operate, and repair Home Assistant"
+  default_prompt: "Use $home-assistant to inspect and operate this Home Assistant instance. Run normal service calls and reloads freely; only ask for confirmation before destructive actions (delete/disable/stop/restart), then verify results."
